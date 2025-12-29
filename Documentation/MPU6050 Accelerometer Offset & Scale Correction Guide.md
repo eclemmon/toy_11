@@ -65,9 +65,9 @@ Once the upload completes successfully, disconnect the USB cable.
 
 ### 3. Prepare the Physical Environment
 
-Close the toy_11 enclosure and place it on a stable, level surface. The floor is often the most reliably level option, though calibration performed on the same surface used during performance will generally yield the most accurate results.
-
 Power on the toy_11 interface and allow it to connect normally over WiFi.
+
+Close the toy_11 enclosure and place it on a stable, level surface. The floor is often the most reliably level option, though calibration performed on the same surface used during performance will generally yield the most accurate results.
 
 ### 4. Establish Network Communication
 
