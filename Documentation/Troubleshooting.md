@@ -22,12 +22,18 @@ Double check the `DESTINATION_IP` variable in the `secrets.h` file and compare i
 The cover glass of each unit can sometimes be detected by the VL53L4CD Time of Flight sensor. This can occur if the cover glass gets dirty or scratched.
 
 >### Solution: 
+
 Remove the affected VL53L4CD sensor assembly tray using a 1.3mm hex driver. Using glass cleaner, and being careful not to get the sensor itself wet, gently clean the cover glass. Test the sensor by reconnecting any cables and booting the internal Arduino, sending data to the toy_11 host computer.
 
 >### Solution: 
+
 Remove the affected VL53L4CD sensor assembly tray using a 1.3mm hex driver. Tear off the cover glass using needle nose pliers. WARNING: A NEW ASSEMBLY TRAY WILL NEED TO BE 3D PRINTED AND A FRESH COVER GLASS AFFIXED TO GAIN THE PROTECTIVE BENEFITS OF A COVER GLASS
 
 ## Failed to find MPU6050 chip Error Message
+
+>### Solution:
+
+Cycle the power on the toy_11 interface by turning on and off the battery unit or disconnecting and reconnecting the Arduino R4 WiFi from the USB-C port.
 
 >### Solution: 
 
