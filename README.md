@@ -8,6 +8,10 @@ The sensors route captured data via an [Arduino R4 WiFi](https://store-usa.ardui
 
 ## Documentation
 
+### Start Here
+* [Setup](/Documentation/Setup.md)
+
+### Other Documentation
 * [IP Address Reservation Instructions](/Documentation/IP%20Address%20Reservation%20Instructions.md)
 * [MPU6050 Accelerometer Offset & Scale Adjustment Instructions](/Documentation/MPU6050%20Accelerometer%20Offset%20&%20Scale%20Correction%20Guide.md)
 * [Troubleshooting](/Documentation/Troubleshooting.md)
